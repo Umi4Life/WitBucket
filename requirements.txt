@@ -1,0 +1,10 @@
+Flask>=1.0
+gunicorn>=19.9
+Jinja2
+Werkzeug
+certifi
+chardet
+gunicorn
+flask_restful
+flask
+pymongo-3.5.0 
